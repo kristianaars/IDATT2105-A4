@@ -1,4 +1,4 @@
-# IDATT2105-A2-VueCalculator
+# IDATT2105-A3-VueCalculator
 
 ## Project Summary
 This project is completed as an mandatory assigment for the IDATT2105 course at NTNU.
